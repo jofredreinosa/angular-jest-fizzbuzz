@@ -40,6 +40,7 @@ npm run test
 ```
 
 ## 📁 Estructura principal
+```
 src/
 ├── app/
 │   ├── app.component.ts
@@ -49,5 +50,5 @@ src/
 ├── main.ts
 jest.config.js
 setup-jest.ts
-
+```
 

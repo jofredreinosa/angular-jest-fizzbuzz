@@ -32,12 +32,14 @@ Este repo acompaña el video:
 git clone [https://github.com/jofredreinosa/angular-jest-fizzbuzz]
 cd angular-jest-fizzbuzz
 npm install
+```
 
 ## 🧪 Ejecutar los tests
 ```bash
 npm run test
+```
 
-### 📁 Estructura principal
+## 📁 Estructura principal
 src/
 ├── app/
 │   ├── app.component.ts

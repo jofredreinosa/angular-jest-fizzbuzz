@@ -29,6 +29,23 @@ Este repo acompaña el video:
 ## 🔧 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/angular-jest-fizzbuzz.git
+git clone [https://github.com/jofredreinosa/angular-jest-fizzbuzz]
 cd angular-jest-fizzbuzz
 npm install
+
+## 🧪 Ejecutar los tests
+```bash
+npm run test
+
+### 📁 Estructura principal
+src/
+├── app/
+│   ├── app.component.ts
+│   ├── app.component.html
+│   ├── app.component.spec.ts
+├── app.config.ts
+├── main.ts
+jest.config.js
+setup-jest.ts
+
+
